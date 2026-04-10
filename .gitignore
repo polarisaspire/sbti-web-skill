@@ -1,0 +1,18 @@
+# Local skill runtime
+.pikiclaw/
+.claude/
+.agents/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Generator scripts (system-specific)
+gen_*.py
