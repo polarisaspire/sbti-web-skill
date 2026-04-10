@@ -16,3 +16,5 @@ Thumbs.db
 
 # Generator scripts (system-specific)
 gen_*.py
+
+.vercel
